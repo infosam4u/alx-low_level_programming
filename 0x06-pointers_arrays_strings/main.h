@@ -3,7 +3,7 @@
 
 /**
  * File: main.h
- * Auth: Ismail Mohamed
+ * Auth: Info Sam 4u
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x06-pointers_arrays_strings.
  */
