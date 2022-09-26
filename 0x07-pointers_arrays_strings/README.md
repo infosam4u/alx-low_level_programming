@@ -1,1 +1,4 @@
-0x07-pointers_arrays_strings
+#07. C - Even more pointers, arrays and strings
+## By Ismail Mohamed
+## ALX-Software Engineering Programm
+``` COHORT 6 ```
