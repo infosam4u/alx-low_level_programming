@@ -1,4 +1,3 @@
-#07. C - Even more pointers, arrays and strings
-## By Ismail Mohamed
+#0x08-recursion
 ## ALX-Software Engineering Programm
 ``` COHORT 6 ```
