@@ -5,7 +5,7 @@
  * main - Prints the multiplication of two numbers, followed by a new line.
  * @argc: The number of arguments supplied to the program.
  * @argv: An array of pointers to the arguments.
- * Author: Ismail Mohamed - ALX - SE - COHORT_6
+ * Author: Infosam4u
  * Return: If the program receives two arguments - 0.
  *         If the program does not receive two arguments - 1.
  */
