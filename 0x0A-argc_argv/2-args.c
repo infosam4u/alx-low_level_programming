@@ -4,7 +4,7 @@
  * main - Prints all arguments it receives.
  * @argc: The number of arguments supplied to the program.
  * @argv: An array of pointers to the arguments.
- * Author: Ismail Mohamed - ALX - SE - COHORT_6
+ * Author: Infosam4u
  * Return: Always 0.
  */
 int main(int argc, char *argv[])
